@@ -12,6 +12,14 @@ than negotiated as documents. Neither wave is sufficient alone. Agents without
 a company are labor without authority, memory, or accountability. Ownership
 tokens without operating context are claims against nothing legible.
 
+A company is treated here as a primitive, not a bundle of documents and
+disconnected software. The argument is that it should be founded on one
+company computer: a dedicated server holding twelve standing officer roles, a
+shared memory, and an inbox reachable across the channels a business already
+uses, where humans and agents occupy the same seats and the same operating
+record. Ownership and governance can then attach to how the company actually
+operates, rather than to what it claims to have done.
+
 This paper presents **AEQI**, a runtime for **programmable Companies** —
 companies that put both waves inside one operating shell. A Company is an
 addressable entity with four operating primitives (Agents, Quests, Events,
@@ -27,7 +35,7 @@ substrate for legible authority and ownership, a recursive capital loop
 in which operating truth compounds into governance and capital efficiency,
 and three falsifiable predictions for the next three years.
 
-**Keywords:** Agent economy · Programmable companies · Company OS · Operating
+**Keywords:** Agent economy · Programmable companies · Company computer · Operating
 runtime · DAOs · Mechanism design · Programmable ownership · Solana.
 
 ---
@@ -314,7 +322,7 @@ The protocol direction is for ownership state to be recorded on chain,
 parameterized by the entity's governance module, and conditioned on operational
 events. Performance-anchored mechanisms — vesting against verifiable milestones
 rather than mere tenure — become tractable once the underlying company is itself
-an operating system.
+a company computer.
 
 **Governance** is similarly first-class in the protocol model. Proposals are
 addressable ideas; votes are recorded events; outcomes can commit through an
@@ -353,9 +361,9 @@ The loop is recursive in the strong sense Katz and Shapiro (1985)
 described for network goods: the value of the system to any individual
 participant grows with the participation of others. A runtime that
 improves how other companies operate produces compounding system-wide
-returns no individual company on it can match. This is the leverage shape
-operating systems have over the applications running on them. The
-highest-leverage company is the one whose existence improves how other
+returns no individual company on it can match. By analogy, this is the
+leverage shape operating systems have over the applications running on them.
+The highest-leverage company is the one whose existence improves how other
 companies are created, operated, funded, governed, and owned.
 
 The ordering
@@ -458,8 +466,8 @@ by end of 2029. *Falsified if:* no such runtime exists by that date.
 These are not the most ambitious versions of the thesis. They are the
 versions that can be checked. If all three are falsified, the thesis is
 wrong about timing, scope, or both. If all three hold, the thesis
-remains an open question — operating systems take longer than three
-years to win — but the direction of travel is confirmed.
+remains an open question — by analogy, operating systems take longer than
+three years to win — but the direction of travel is confirmed.
 
 ---
 
@@ -473,7 +481,7 @@ the operating truth between them that makes both credible.
 A traditional company assembles itself out of documents, conversations,
 and tools. A DAO ratifies decisions about an organization whose work
 lives elsewhere. An agent framework manufactures labor that has no
-employer. A SaaS company OS files away discrete pieces of the firm in
+employer. A SaaS suite files away discrete pieces of the firm in
 disconnected applications. None is wrong. None is sufficient.
 
 A Company is a programmable company: an addressable entity with
@@ -488,7 +496,8 @@ the wedge. Improvements to the default infrastructure for venture
 creation have compounding system-wide effects greater than any
 individual startup they enable.
 
-Startups fail or exit. Operating systems persist.
+Startups fail or exit. Operating systems — the analogy, not AEQI's name for
+itself — persist.
 
 AEQI is one answer.
 

@@ -1,6 +1,6 @@
 # Product Overview
 
-aeqi is the Company OS for the agent economy.
+aeqi is the company computer for the agent economy.
 
 This page is the product overview. For the market thesis, read
 [The agent economy](/blog/the-agent-economy). For the long-arc manifesto, read
@@ -57,7 +57,7 @@ aeqi exposes the same Company through four surfaces:
 | **MCP** | A tool bridge for AI clients such as Codex and Claude Code. | AI agents need Company memory, quest tracking, code intelligence, and durable lessons while they work. |
 | **CLI** | The `aeqi` terminal client and MCP bridge. | Operators need chat, scripting, and a stdio MCP bridge from the shell. |
 
-This is the difference between a primitive API and a Company OS. A primitive API
+This is the difference between a primitive API and a company computer. A primitive API
 exposes actions. aeqi gives those actions a Company context: role, authority,
 quest, session trace, memory, event history, and operating outcome.
 
@@ -70,7 +70,7 @@ In a normal company, context is scattered across chat, docs, tickets,
 spreadsheets, accounts, contracts, and founder memory. aeqi pulls those parts
 into one company runtime so humans and agents operate from the same state.
 
-That is the difference between an agent tool and a Company OS. An agent tool
+That is the difference between an agent tool and a company computer. An agent tool
 helps with a task. aeqi gives the work a role, a session trace, a memory record,
 an owner, and a place in the company's operating history.
 

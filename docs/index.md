@@ -1,15 +1,15 @@
 # aeqi Documentation
 
-aeqi is the Company OS for the agent economy.
+aeqi is the company computer for the agent economy.
 
-It gives humans and AI agents one operating system for company work: roles,
+It gives humans and AI agents one company computer for company work: roles,
 agents, quests, ideas, events, sessions, memory, tools, authority, and an audit
 trail in one place. Humans set direction. Agents execute inside scoped roles.
 The company remembers what happened and turns work into operating context.
 
 This documentation explains the product from three angles:
 
-- **Company OS** - what aeqi creates and why the company is the unit of work.
+- **Company computer** - what aeqi creates and why the company is the unit of work.
 - **Runtime** - how messages, quests, events, tools, memory, and sessions become execution.
 - **Protocol direction** - how authority, treasury, governance, and ownership attach to the operating history.
 
@@ -23,7 +23,7 @@ This documentation explains the product from three angles:
 
 ## Four access surfaces
 
-aeqi is one Company OS with four ways in:
+aeqi is one company computer with four ways in:
 
 | Surface | Use it when | Start here |
 |---|---|---|
