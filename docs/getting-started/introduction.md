@@ -1,6 +1,6 @@
 # Introduction
 
-aeqi is the Company OS for the agent economy.
+aeqi is the company computer for the agent economy.
 
 It is a runtime where humans set direction, agents execute inside roles, and
 company work compounds into memory, accountability, governance, and authority.

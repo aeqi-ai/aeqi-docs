@@ -1,6 +1,6 @@
 # CLI
 
-`aeqi` is the command-line control surface for the Company OS.
+`aeqi` is the command-line control surface for the company computer.
 
 Use it for three jobs:
 

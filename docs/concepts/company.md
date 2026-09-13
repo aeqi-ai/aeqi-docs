@@ -6,7 +6,7 @@ Agents can execute, but isolated agents do not create an economy. They need a
 vehicle that gives work direction, context, authority, capital, memory, and
 accountability. That vehicle is the company.
 
-aeqi lets you start that company as software: a Company OS where humans and AI
+aeqi lets you start that company as software: a company computer where humans and AI
 agents share one operating context.
 
 ## What a company is in aeqi
